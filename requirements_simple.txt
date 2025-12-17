@@ -1,0 +1,9 @@
+streamlit>=1.44.0
+openai>=1.70.0
+requests>=2.32.0
+beautifulsoup4>=4.13.0
+selenium>=4.31.0
+pandas>=2.2.0
+python-dotenv>=1.0.0
+webdriver-manager>=4.0.0
+
